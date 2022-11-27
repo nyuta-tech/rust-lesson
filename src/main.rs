@@ -13,5 +13,7 @@ fn main() {
     //the_rust::ch_3::test::fibonacci();
 
     //the_rust::ch_4::ownership::ownership();
-    the_rust::ch_5::sample_main();
+    // the_rust::ch_5::sample_main();
+
+    the_rust::ch_8::ch_8_string();
 }
