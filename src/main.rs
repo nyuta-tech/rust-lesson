@@ -15,5 +15,6 @@ fn main() {
     //the_rust::ch_4::ownership::ownership();
     // the_rust::ch_5::sample_main();
 
-    the_rust::ch_8::ch_8_string();
+    // the_rust::ch_8::ch_8_string();
+    the_rust::ch_9::ch_9_panic();
 }
